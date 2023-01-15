@@ -60,3 +60,8 @@
     background:darkgrey;
     margin: 20px;
 }
+
+.rm-link-color {
+    text-decoration: none;
+    color: black;
+}
