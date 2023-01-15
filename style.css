@@ -65,3 +65,11 @@
     text-decoration: none;
     color: black;
 }
+
+.log-in-out{
+    font-size: medium;
+    background-color: rgb(255, 162, 0);
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+}
